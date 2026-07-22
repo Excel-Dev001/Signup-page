@@ -60,3 +60,10 @@ button:hover {
   text-align: center;
   margin: 10px 0;
 }
+. Google{width:90px;
+         padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;}
